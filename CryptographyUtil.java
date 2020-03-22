@@ -1,4 +1,4 @@
-package com.hihilulu.api.utils;
+package com.xiaolin.api.utils;
 
 import org.apache.commons.codec.binary.Base64;
 
